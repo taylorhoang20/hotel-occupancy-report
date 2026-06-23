@@ -26,7 +26,3 @@ A C++ application that calculates hotel occupancy rates and generates a detailed
 - Data Analysis
 - Report Generation
 - Software Development Fundamentals
-
-## Author
-
-Taylor Hoang****
